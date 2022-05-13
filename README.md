@@ -1,6 +1,9 @@
 # Instalación y configuración
 
-Para su instalación 
+Para su instalación es necesario tener JDK 11 (una versión reciente)
+Tener configuración de sistemas en Git
+Contar con una cuenta en GitHub
+
 # Uso del programa
 
 El propósito de este proyecto es la creación de un programa donde se simulará un sistema dentro de un consultorio clínico claramente como es que se lleva a cabo la administración para la programación de citas y la vinculación con los doctores correspondientes.
