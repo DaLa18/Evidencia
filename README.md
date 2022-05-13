@@ -1,7 +1,9 @@
 # Instalación y configuración
 
 Para su instalación es necesario tener JDK 11 (una versión reciente)
+
 Tener configuración de sistemas en Git
+
 Contar con una cuenta en GitHub
 
 # Uso del programa
