@@ -22,6 +22,8 @@ Dentro de las principales funciones que debe de cumplir el programa es:
 	Tener un control para el acceso (solo algunos usuarios podrán ingresar mediante su contraseña y su identificador).
 
 # Créditos
+Este programa fue creado con fines educativos por la materia de Computación en Java
 
-A esta pobre alma en desgracia :)
+Alumna de la carrera de Diseño Gráfico y Animación 
+(esta pobre alma en desgracia :) )
 # Licencia
