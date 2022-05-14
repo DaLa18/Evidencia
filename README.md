@@ -24,6 +24,5 @@ Dentro de las principales funciones que debe de cumplir el programa es:
 # Créditos
 Este programa fue creado con fines educativos por la materia de Computación en Java
 
-Alumna de la carrera de Diseño Gráfico y Animación 
-(esta pobre alma en desgracia :) )
+# Autora: Dana Laura alumna de la carrera de Diseño Gráfico y Animación (esta pobre alma en desgracia :) )
 # Licencia
